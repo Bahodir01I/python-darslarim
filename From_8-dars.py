@@ -8,6 +8,9 @@ Dasturlash asoslari
 @author: Bahodir
 """
 
+##########             MISOLLAR
+
+
 
 # cars = ['bmw', 'mercedes benz', 'vovlo', 'general motors', 'tesla', 'audi']
 
